@@ -11,7 +11,7 @@
 
 
 
-## 👨‍💻 Rayan – Front-End Developer
+## 👨‍💻 Rayan Mohamed– Front-End Developer
 
 I am a passionate Front-End Developer with a strong focus on building modern, responsive, and user-friendly web applications.
 
