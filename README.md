@@ -18,8 +18,8 @@
 <div style="display: flex; align-items: flex-start;">
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="86" height="86" />
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="86" height="86" />
-  <img src="https://techstackgenerator.vercel.app/tsicon.svg(https://cdnl.iconscout.com/lottie/premium/previewwatermark/htmlfileanimationgifdownload3996800.mp4)"alt="icon"width="86"height="86"/>
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="86" height="86" />
+  <img src="https://github.com/user-attachments/assets/822a7ec3-54d9-4a00-9e13-472a81fc475b" alt="icon" width="86" height="86" />
   <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="86" height="86" />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="86" height="86" />
   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="86" height="86" />
